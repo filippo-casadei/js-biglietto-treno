@@ -25,3 +25,6 @@ else {
 
 // per stampare il risultato: 
 console.log(`Il prezzo del biglietto è: ${prezzoBase.toFixed(2)}`)
+
+// per vedere il risultato a schermo:
+alert(`Il prezzo del biglietto è: ${prezzoBase.toFixed(2)}`)
