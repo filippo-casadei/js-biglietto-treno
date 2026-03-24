@@ -28,3 +28,17 @@ console.log(`Il prezzo del biglietto è: ${prezzoBase.toFixed(2)}`)
 
 // per vedere il risultato a schermo:
 alert(`Il prezzo del biglietto è: ${prezzoBase.toFixed(2)}`)
+
+
+
+// CORREZIONE
+// VALIDAZIONE E COERENZA DEI DATI: per  verificare che effettivamente venga inserito un numero
+// nello spazio dell'età e che sia maggiore o uguale a 0.
+
+
+// if (isNaN (quantiAnniHai) && >=0) {
+//     console.error("Non hai inserito un numero");
+// }
+// else {
+//     console.log(haiinserito un numero)
+// }
